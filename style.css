@@ -4,6 +4,9 @@ body{
 .upper_top{
     height: 150px;
 }
+.mid_top{
+    height: 600px;
+}
 .menu_bar{
     float: right;
     width: 40%;
